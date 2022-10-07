@@ -47,7 +47,7 @@ I was a content manager of few online shops (support and filling). Also I am a b
 
 ### Experience:
 ***
-10 years in Advertising. And I just have to learn Java Script (few weeks)
+10 years in Advertising. And I had been learning Java Script for few weeks.
 
 ### Education:
 ***
