@@ -1,21 +1,21 @@
 # Rudchenko Oleksandra
 ***
-## Frontend Developer, Maketing Specialist
+## Frontend Developer, Marketing Specialist
 
 ***
 ### Contact Info:
-- *Location:T4N, Red Deer, Alberta, Canada*
+- *Location: T4N, Red Deer, Alberta, Canada*
 - *email: sandyrud.com@gmail.com*
 
 ### Summary:
 ***
-I was a content manager of few online shops (support and filling). Also I am a bloger in Istagram (about 30 thousand subscribers, Ukraine). I love creating advertising campaigns. After the war in Ukraine I had to move from Kyiv to Canada. 
+I was a content manager of few online shops (support and filling). Also I am a blogger on Instagram (about 30 thousand subscribers, Ukraine). I love creating advertising campaigns. After the war in Ukraine I had to move from Kyiv to Canada. 
 
 ### Skills:
 ***
-- Strong Knowledge of Google Adwords, Adsense, Analitics
+- Strong Knowledge of Google Adwords, Adsense, Analytics
 - Basic Knowledge of HTML, JS, CSS
-- Hobby: homestyler (interior design)
+- Hobby: Homestyler (interior design)
 
 ### Code Examples (Latest):
 ***
@@ -47,13 +47,16 @@ I was a content manager of few online shops (support and filling). Also I am a b
 
 ### Experience:
 ***
-> 10 years in Advertising. And I just have to learn Java Script (few weeks)
+10 years in Advertising. And I just have to learn Java Script (few weeks)
 
 ### Education:
-****
+***
 Master's degree in Medical Devices and Systems
 
 ### Languages
-Ukrainian, Russian, English
+***
+1. Ukrainian
+2. Russian
+3. English
 
 
